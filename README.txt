@@ -1,0 +1,5 @@
+Usage: python simulator.py <option>'
+<option> can be 1 => Manual player vs. Manual player'
+				2 => Bot vs. Human'
+				3 => Human vs. Bot'
+				4 => Bot vs. Bot'
